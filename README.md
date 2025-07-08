@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 
-  <a href="https://www.youtube.com/channel/@licodev?sub_confirmation=1">
+  <a href="https://www.youtube.com/channel/UCxoLMPzu5P2pQi_H1VcWXuQ?sub_confirmation=1">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>&nbsp;&nbsp;
 </div>
@@ -23,14 +23,11 @@
 
 <br>
 
-<a href="https://www.youtube.com/channel/UCTk4hR5N9e_Rmixdp4lEPNw?sub_confirmation=1">
-  <img src="https://img.shields.io/youtube/channel/subscribers/UCTk4hR5N9e_Rmixdp4lEPNw?style=social"  alt="https://www.youtube.com/channel/UCTk4hR5N9e_Rmixdp4lEPNw?sub_confirmation=1"/>
+<a href="https://www.youtube.com/channel/UCxoLMPzu5P2pQi_H1VcWXuQ?sub_confirmation=1">
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCxoLMPzu5P2pQi_H1VcWXuQ?style=social"  alt="https://www.youtube.com/channel/UCxoLMPzu5P2pQi_H1VcWXuQ?sub_confirmation=1"/>
 </a>
 
 </div>
-
-<!--
-**daltonbr/daltonbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -42,5 +39,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
