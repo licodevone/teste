@@ -3,7 +3,8 @@
 </h1>
 
 <div align="center">
-  A IOT Engineer | Java | Javascript 🎮
+  A IOT Engineer | C/C++ | Java | Javascript 🎮
+  <br>
 </div>
 
 <div align="center">
