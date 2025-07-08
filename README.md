@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  A IOT Engineer | C/C++ | Java | Javascript 🎮
+  A IOT Engineer | C/C++ | Java | Javascript 
   <br>
 </div>
 
@@ -20,7 +20,7 @@
 <br>
 
 <div align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=daltonbr&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=licodev&show_icons=true&count_private=true&theme=dark" width="350"></a>
 
 <br>
 
